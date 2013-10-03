@@ -1,0 +1,3 @@
+
+class StaticAgent extends Agent {
+}

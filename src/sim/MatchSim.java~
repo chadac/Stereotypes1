@@ -1,0 +1,4 @@
+
+public class MatchSim extends Match {
+    int ms[];
+    public MatchSim(int[] ms)

@@ -1,0 +1,11 @@
+/**
+ * Simulator
+ *
+ *  Generates a population of static agents and allows learning agents
+ *  to interact with each of the static agents.
+ **/
+
+class Simulator {
+    public Simulator() {
+    }
+}
